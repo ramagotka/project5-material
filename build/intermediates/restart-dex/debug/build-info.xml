@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="81328630073645" >
+
+    <task
+        name="javac"
+        duration="1598" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="577" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="/home/hania/AndroidStudioProjects/project5-xyz/build/outputs/apk/project5-xyz-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="81328630073645" >
+        <artifact
+            location="/home/hania/AndroidStudioProjects/project5-xyz/build/outputs/apk/project5-xyz-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
